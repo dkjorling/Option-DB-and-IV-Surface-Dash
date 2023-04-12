@@ -1,0 +1,4 @@
+*.env
+tmp_df.csv
+venv/
+__pycache__/

@@ -1,0 +1,51 @@
+﻿Ticker,Fund Name,Issuer,AUM,Expense Ratio,3-Mo TR,Segment
+GLD,SPDR Gold Trust,State Street Global Advisors,$52.20B,0.40%,7.03%,Commodities: Precious Metals Gold
+IAU,iShares Gold Trust,Blackrock,$25.77B,0.25%,7.09%,Commodities: Precious Metals Gold
+SLV,iShares Silver Trust,Blackrock,$10.83B,0.50%,18.79%,Commodities: Precious Metals Silver
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 …,Invesco,$6.69B,0.62%,-3.15%,Commodities: Broad Market
+GLDM,SPDR Gold MiniShares Trust,State Street Global Advisors,$4.92B,0.10%,7.10%,Commodities: Precious Metals Gold
+FTGC,First Trust Global Tactical Commodity Strategy Fund,First Trust,$3.34B,0.95%,0.00%,Commodities: Broad Market
+DBC,Invesco DB Commodity Index Tracking Fund,Invesco,$2.75B,0.87%,-2.89%,Commodities: Broad Market
+SGOL,abrdn Physical Gold Shares ETF,Abrdn Plc,$2.36B,0.17%,7.17%,Commodities: Precious Metals Gold
+USO,United States Oil Fund LP,"Marygold Cos, Inc.",$2.20B,0.81%,-7.15%,Commodities: Energy Crude Oil
+COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,Blackrock,$1.68B,0.48%,-4.61%,Commodities: Broad Market
+GSG,iShares S&P GSCI Commodity Indexed Trust,Blackrock,$1.25B,0.75%,-4.44%,Commodities: Broad Market
+DBA,Invesco DB Agriculture Fund,Invesco,$1.17B,0.93%,-3.70%,Commodities: Agriculture
+IAUM,iShares Gold Trust Micro,Blackrock,$1.06B,0.15%,7.11%,Commodities: Precious Metals Gold
+SIVR,abrdn Physical Silver Shares ETF,Abrdn Plc,$1.05B,0.30%,18.75%,Commodities: Precious Metals Silver
+BCI,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,Abrdn Plc,$1.01B,0.25%,-2.63%,Commodities: Broad Market
+GLTR,abrdn Physical Precious Metals Basket Shares ETF,Abrdn Plc,$991.64M,0.60%,6.19%,Commodities: Precious Metals
+BAR,GraniteShares Gold Trust,GraniteShares,$878.05M,0.17%,6.99%,Commodities: Precious Metals Gold
+UCO,ProShares Ultra Bloomberg Crude Oil,ProShares,$843.53M,1.62%,-14.57%,Leveraged Commodities: Energy Crude Oil
+KRBN,KraneShares Global Carbon Strategy ETF,CICC,$769.35M,0.78%,11.92%,Commodities: Energy Carbon Credits
+DJP,iPath Bloomberg Commodity Index Total Return ETN,Barclays Capital Inc.,$763.13M,0.70%,-3.11%,Commodities: Broad Market
+OUNZ,VanEck Merk Gold Trust,Merk,$587.88M,0.25%,7.08%,Commodities: Precious Metals Gold
+BOIL,ProShares Ultra Bloomberg Natural Gas,ProShares,$572.80M,1.33%,-52.04%,Leveraged Commodities: Energy Natural Gas
+UNG,United States Natural Gas Fund LP,"Marygold Cos, Inc.",$526.06M,1.11%,-25.42%,Commodities: Energy Natural Gas
+AGQ,ProShares Ultra Silver,ProShares,$432.23M,1.50%,36.63%,Leveraged Commodities: Precious Metals Silver
+AAAU,Goldman Sachs Physical Gold ETF,Goldman Sachs,$427.46M,0.18%,7.07%,Commodities: Precious Metals Gold
+USOI,Credit Suisse X-Links Crude Oil Shares Covered Call ETN,Credit Suisse Group AG,$351.23M,0.85%,-7.56%,Commodities: Energy Crude Oil
+CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,Blackrock,$318.47M,0.28%,-1.59%,Commodities: Broad Market
+PALL,Aberdeen Standard Physical Palladium Shares ETF,Abrdn Plc,$302.40M,0.60%,-18.72%,Commodities: Precious Metals Palladium
+DBO,Invesco DB Oil Fund,Invesco,$299.44M,0.77%,-11.70%,Commodities: Energy Crude Oil
+COM,Direxion Auspice Broad Commodity Strategy ETF,Direxion,$282.93M,0.72%,0.67%,Commodities: Broad Market
+BCD,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free…,Abrdn Plc,$278.26M,0.29%,-0.60%,Commodities: Broad Market
+USCI,United States Commodity Index Fund,"Marygold Cos, Inc.",$263.13M,1.01%,1.60%,Commodities: Broad Market
+COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,GraniteShares,$254.65M,0.25%,-2.87%,Commodities: Broad Market
+KCCA,KraneShares California Carbon Allowance Strategy ETF,CICC,$248.20M,0.78%,-0.53%,Commodities: Energy Carbon Credits
+BNO,United States Brent Oil Fund LP,"Marygold Cos, Inc.",$246.59M,1.02%,-9.59%,Commodities: Energy Crude Oil
+DBB,Invesco DB Base Metals Fund,Invesco,$242.52M,0.77%,4.17%,Commodities: Industrial Metals
+SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares,$240.77M,0.95%,--,Inverse Commodities: Energy Crude Oil
+WEAT,Teucrium Wheat Fund,Teucrium,$239.83M,1.14%,-12.37%,Commodities: Agriculture Wheat
+GCC,WisdomTree Enhanced Commodity Strategy Fund,WisdomTree,$203.52M,0.55%,-1.42%,Commodities: Broad Market
+KOLD,ProShares UltraShort Bloomberg Natural Gas,ProShares,$173.70M,0.95%,--,Inverse Commodities: Energy Natural Gas
+CPER,United States Copper Index Fund,"Marygold Cos, Inc.",$169.46M,0.85%,6.90%,Commodities: Industrial Metals Copper
+UGL,ProShares Ultra Gold,ProShares,$168.88M,0.95%,12.41%,Leveraged Commodities: Precious Metals Gold
+CORN,Teucrium Corn Fund,Teucrium,$168.09M,1.14%,-3.80%,Commodities: Agriculture Corn
+DBE,Invesco DB Energy Fund,Invesco,$157.65M,0.77%,-7.80%,Commodities: Energy
+SLVO,Credit Suisse X-Links Silver Shares Covered Call ETN,Credit Suisse Group AG,$151.20M,0.65%,17.65%,Commodities: Precious Metals Silver
+DJCB,ETRACS Bloomberg Commodity Index Total Return ETN Series B,UBS,$141.13M,0.50%,-2.76%,Commodities: Broad Market
+DBP,Invesco DB Precious Metals Fund,Invesco,$107.93M,0.75%,8.83%,Commodities: Precious Metals
+GLDI,Credit Suisse X-Links Gold Shares Covered Call ETN,Credit Suisse Group AG,$99.55M,0.65%,5.57%,Commodities: Precious Metals Gold
+OILK,ProShares K-1 Free Crude Oil Strategy ETF,ProShares,$94.77M,0.67%,-6.41%,Commodities: Energy Crude Oil
+USL,United States 12 Month Oil Fund LP,"Marygold Cos, Inc.",$85.48M,0.88%,-5.77%,Commodities: Energy Crude Oil
